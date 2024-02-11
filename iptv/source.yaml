@@ -2894,6 +2894,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/eldoradio.png
         tvg_name: eldoradio
         url: http://sender.eldoradio.de:8000/128.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Querfunk
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/querfunk.png
+        tvg_name: Querfunk
+        url: https://stream.querfunk.de/qfhi
     it:
       id: 9
       streams:
